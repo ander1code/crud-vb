@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "dbCrud", "dbCrud\dbCrud.vbproj", "{0091DC35-8223-454D-8163-3A1B560DF119}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "crud-vb", "crud-vb\crud-vb.vbproj", "{B1EA6727-71A4-4F98-8A2C-C00DF41905F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0091DC35-8223-454D-8163-3A1B560DF119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0091DC35-8223-454D-8163-3A1B560DF119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0091DC35-8223-454D-8163-3A1B560DF119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0091DC35-8223-454D-8163-3A1B560DF119}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1EA6727-71A4-4F98-8A2C-C00DF41905F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1EA6727-71A4-4F98-8A2C-C00DF41905F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1EA6727-71A4-4F98-8A2C-C00DF41905F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1EA6727-71A4-4F98-8A2C-C00DF41905F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
