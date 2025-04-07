@@ -1,10 +1,15 @@
 # CRUD-VB
 
 ![Visual Basic](https://img.shields.io/badge/Visual_Basic-6A5ACD?logo=visualstudio&logoColor=white)
+
 ![.NET Framework](https://img.shields.io/badge/.NET_Framework-512BD4?logo=.net&logoColor=white&color=blue)
+
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+
 ![Platform: Windows](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=white)
-![Last Commit](https://img.shields.io/github/last-commit/ander1code/crud-vb?color=yelllow&logo=github) ![Size](https://img.shields.io/github/repo-size/ander1code/crud-vb?color=blue&logo=files) ![License](https://img.shields.io/github/license/ander1code/crud-vb?color=black&logo=open-source-initiative)
+
+![Last Commit](https://img.shields.io/github/last-commit/ander1code/crud-vb?color=yellow&logo=github)
+
 
 ## 1. Description
 **CRUD-VB** is a prototype of a **CRUD system** developed in **Visual Basic**, leveraging **SQL Server (.mdf)** for database operations. The system utilizes **Object-Oriented Programming (OOP)** principles and supports transactional operations to ensure data integrity.
